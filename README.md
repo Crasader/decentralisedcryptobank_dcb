@@ -1,3 +1,4 @@
+#erlang
 # A Crypto Bank with:
 * anonymous user IDs (check my 'anonymous invoicing' project)
 * a decentralised 'database' (merchant-arbitrated-localised) and decentralised markets
@@ -6,5 +7,4 @@
 * a merchant-integrated 'banking' experience (for financial-hospitability-relief services)
 * a user 'banning' system
 * a merchant 'credibility' system
-#erlang
 
