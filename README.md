@@ -1,6 +1,7 @@
 #erlang
 # A Crypto Bank with:
-* anonymous user IDs (check my 'anonymous invoicing' project)
+* anonymous ACCOUNT IDs (check my 'anonymous invoicing' project)
+** Product UNIQUE IDs
 * a decentralised 'database' (merchant-arbitrated-localised) and decentralised markets
 (A LIGHTNING NODE MIGHT BE REQUIRED / USED)
 * a wallet-integrated 'shopping' experience
